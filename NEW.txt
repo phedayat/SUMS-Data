@@ -1,1 +1,1 @@
-Changed the text in here
+Last change to NEW.txt before merging
