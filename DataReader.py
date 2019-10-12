@@ -24,7 +24,7 @@ class DataReader:
         self.df = pd.read_csv(filename)
 
     # Splice the dataframe accordsing to a specific date
-    def spliceDf(date):
+    def spliceDf(self, date):
         currSplice = self.df[self.df.Timestamp == date]
         return currSplice ## splice of the dataframe
 
