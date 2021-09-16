@@ -1,19 +1,9 @@
-# SUMS-Data
+# Tracking attendance for org. events
 
-### Purpose
+## What this is
 
-This project is supposed to be used to read CSVs and create plots of the data in them. The CSVs are specifically formatted to include certain information that is utilized by the script.
+This project was made specifically for tracking the attendance at my student org.'s events. It utilizes the Pandas and Matplotlib modules for Python to create a graph based on a very specifically formatted CSV. 
 
-### TODO
+## Why I care about this project at all
 
-- [ ] Add comments to understand what's going on
-- [ ] Generate a report (i.e. output a text file) based on the given data
-  - Average attendance across all events
-  - Event with greatest attendance + time and date it was held
-  - Event with least attendance + time and date it was held
-
-### Notes
-
-* It uses `pandas` and `matplotlib` to read the CSV data and create plots, respectively. 
-* This was my first time using `pandas` and `matplotlib` to parse information like this. Not pretty, not efficient, but does what it's supposed to
-* Structurally, I was unsure of what to do. It needs improvement for sure. This project was also my way of utilizing Python in ways I hadn't before, so definitely a learning opportunity.
+This project is by no means finished, nor is it a work of art. It was my first time using Pandas and Matplotlib, and I wanted to use their capabilities together to create something practical. Additionally, I used it to freshen up my Python skills as, prior to its creation, I hadn't written much in Python. Finally, this project was my first introduction to using Git for version control. I wasn't the most skilled in it, but we're always improving.
